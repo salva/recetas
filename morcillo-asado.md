@@ -1,6 +1,6 @@
-= Morcillo asado
+# Morcillo asado
 
-== Ingredientes
+## Ingredientes
 
 - 3/4 Kg de morcillo
 - Ajo
@@ -10,7 +10,7 @@
 - Sal
 - Vegetales al gusto (zanahoria, cebolla, tomate, etc.).
 
-== Preparación
+## Preparación
 
 1. Adobar el morcillo con el ajo y el perejil picados.
 2. Dorar en una sarten con el aceite bien caliente.
