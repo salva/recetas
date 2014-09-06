@@ -8,7 +8,7 @@
 - 1/2 sobre de levadura
 - 125 mililitros de aceite de oliva
 - 4 huevos
-- Una piza de canela
+- Una pizca de canela
 
 ## Preparación
 
