@@ -9,7 +9,7 @@
 
 ## Preparación
 
-1. Rayar la piel del limón encima del azucar.
+1. Rallar la piel del limón encima del azucar.
 
 2. Separar las claras de las yemas.
 
@@ -21,4 +21,5 @@
    abajo arriba (no hay que remover mucho para que no se vaya el aire
    aprisionado).
    
-6. Hornear a 180 grados hasta que este la bizcochada cocida (min 35min).
+6. Hornear a 180 grados hasta que esté la bizcochada cocida (min
+   35min, pinchar con un palillo para saber si esta lista).
