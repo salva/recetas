@@ -1,6 +1,6 @@
 # Rabo de toro o ternera
 
-Para un kg de rabo:
+Para un kg de rabo.
 
 ## Ingredientes
 
